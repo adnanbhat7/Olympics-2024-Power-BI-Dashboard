@@ -1,13 +1,16 @@
 # Olympics 2024 Power BI Dashboard
 
-A Power BI dashboard that visualizes the Olympics 2024 dataset. This dashboard provides a comprehensive overview of athletes, medal statistics, and country-specific data through a user-friendly interface. It includes three main pages: **Home**, **Overview**, and **Athletes**.
+A intractive Power BI dashboard that visualizes the Olympics 2024 dataset. This dashboard provides a comprehensive overview of athletes, medal statistics, and country-specific data through a user-friendly interface. It includes three main pages: **Home**, **Overview**, and **Athletes**.
+
+## Dataset
+The data used for this project can be found on Kaggle: [Paris 2024 Olympic Summer Games Dataset](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games).
 
 ## Project Structure
 
 ### 1. Home Page
 The **Home Page** serves as the entry point, featuring the Paris 2024 Olympics logo and navigation options for the different dashboard sections.
 
-![Home Page](path/to/your/home_image)
+![Home Page](./home.png)
 
 ### 2. Overview Page
 The **Overview Page** provides a summary of the Olympic Games, including:
@@ -17,7 +20,7 @@ The **Overview Page** provides a summary of the Olympic Games, including:
 - **Countries, Teams, and Athletes**: Key metrics summarizing the participating countries, teams, and total athlete count.
 - **World Map**: A map showing the participating countries for easy geographic reference.
 
-![Overview Page](path/to/your/overview_image)
+![Overview Page](./overview.png)
 
 ### 3. Athletes Page
 The **Athletes Page** provides insights into the athletes participating in the Olympics:
@@ -25,7 +28,7 @@ The **Athletes Page** provides insights into the athletes participating in the O
 - **Total Athletes by Country and Gender**: A bar chart displaying the number of athletes per country, broken down by gender.
 - **Total Athletes by Country and Medal Type**: A chart showcasing the number of medals won by each country and gender.
 
-![Athletes Page](path/to/your/athletes_image)
+![Athletes Page](./athlets.png)
 
 ## Key Features
 - **Interactive Visualizations**: Clickable filters allow users to filter data by sport, country, and gender.
@@ -44,10 +47,11 @@ To view the PowerPoint presentation, click the link below:
 
 ## Screenshots
 ### Home Page
-![Home Page](path/to/your/home_image)
+![Home Page](./home.png)
 
 ### Overview Page
-![Overview Page](path/to/your/overview_image)
+![Overview Page](./overview.png)
 
 ### Athletes Page
-![Athletes Page](path/to/your/athletes_image)
+![Athletes Page](./athlets.png)
+
