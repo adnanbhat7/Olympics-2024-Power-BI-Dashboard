@@ -46,12 +46,9 @@ To view the PowerPoint presentation, click the link below:
 [Olympics 2024 Dashboard Presentation](your_live_ppt_link_here)
 
 ## Screenshots
-### Home Page
-![Home Page](./home.png)
+### Overview Page example on china
+![Overview Page](./overview_example.png)
 
-### Overview Page
-![Overview Page](./overview.png)
-
-### Athletes Page
-![Athletes Page](./athlets.png)
+### Athletes Page example
+![Athletes Page](./athlets_example.png)
 
