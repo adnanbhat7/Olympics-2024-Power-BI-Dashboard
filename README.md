@@ -6,7 +6,7 @@ A intractive Power BI dashboard that visualizes the Olympics 2024 dataset. This 
 The data used for this project can be found on Kaggle: [Paris 2024 Olympic Summer Games Dataset](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games).
 
 ## PowerPoint Presentation
-To view the PowerPoint presentation, click the link below:
+To view and Download the PowerPoint presentation, click the link below:
 [Olympics 2024 Dashboard Presentation](./olym_live_ppt.pptx)
 
 ## Project Structure
