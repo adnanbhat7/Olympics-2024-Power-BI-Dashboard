@@ -35,11 +35,8 @@ The **Athletes Page** provides insights into the athletes participating in the O
 - **Data Insights**: Comprehensive visuals that highlight trends and insights for quick understanding.
 - **User-Friendly Interface**: Simple navigation and layout make it easy to explore and understand Olympic data.
 
-## Usage
-To view the Power BI dashboard, follow these steps:
-1. Clone the repository.
-2. Open the Power BI file (.pbix) in Power BI Desktop.
-3. Navigate through the Home, Overview, and Athletes pages to explore the Olympic dataset.
+## Here is the Dashboard in Action 
+![Dashboard Video](./olym_video.mp4)
 
 ## Screenshots
 ### Overview Page example on china
