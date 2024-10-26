@@ -7,7 +7,7 @@ The data used for this project can be found on Kaggle: [Paris 2024 Olympic Summe
 
 ## PowerPoint Presentation
 To view the PowerPoint presentation, click the link below:
-[Olympics 2024 Dashboard Presentation](your_live_ppt_link_here)
+[Olympics 2024 Dashboard Presentation](./olym_live_ppt.pptx)
 
 ## Project Structure
 
